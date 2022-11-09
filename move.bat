@@ -1,0 +1,2 @@
+rm C:\Users\Swofty\Documents\proxy\plugins\HypixelGuilds-1.0-SNAPSHOT.jar
+move C:\Users\Swofty\IdeaProjects\HypixelGuilds\target\HypixelGuilds-1.0-SNAPSHOT.jar C:\Users\Swofty\Documents\proxy\plugins\HypixelGuilds-1.0-SNAPSHOT.jar

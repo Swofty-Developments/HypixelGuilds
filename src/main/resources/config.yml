@@ -1,0 +1,5 @@
+#
+#    Hypixel Guilds Configuration File
+#
+
+mongo-uri: "mongodb://localhost"
